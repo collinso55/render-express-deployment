@@ -1,9 +1,9 @@
 {
   "name": "2.0_ai",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "chat_server.js",
   "scripts": {
-    "start": "nodemon chat_server.js"
+    "start": "node server"
   },
   "keywords": [],
   "author": "",
